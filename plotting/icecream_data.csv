@@ -1,0 +1,32 @@
+day,date,day_of_week,day_of_week_num,humidity_afternoon,max_temp,sales_error,sales_total,top_flavor
+1,08-01,monday,0,61,86,4.37,619.89,coffee
+2,08-02,tuesday,1,59,87,2.92,562.28,moosetracks
+3,08-03,wednesday,2,52,81,4.28,604.46,coffee
+4,08-04,thursday,3,54,88,4.32,667.19,coffee
+5,08-05,friday,4,54,87,8.91,693.86,coffee
+6,08-06,saturday,5,65,85,10.08,771.28,moosetracks
+7,08-07,sunday,6,50,96,0.29,788.14,mint chip
+8,08-08,monday,0,83,95,9.71,652.87,coffee
+9,08-09,tuesday,1,86,91,0.64,579.62,coffee
+10,08-10,wednesday,2,76,71,8.58,683.76,moosetracks
+11,08-11,thursday,3,78,76,0.86,706.29,moosetracks
+12,08-12,friday,4,41,80,8.09,742.37,moosetracks
+13,08-13,saturday,5,49,76,1.00,738.86,moosetracks
+14,08-14,sunday,6,44,80,4.06,709.92,moosetracks
+15,08-15,monday,0,44,81,0.30,545.38,mint chip
+16,08-16,tuesday,1,47,80,3.95,604.71,coffee
+17,08-17,wednesday,2,90,68,4.66,608.59,moosetracks
+18,08-18,thursday,3,59,73,2.86,642.29,coffee
+19,08-19,friday,4,30,90,4.15,689.30,coffee
+20,08-20,saturday,5,37,87,2.78,810.64,coffee
+21,08-21,sunday,6,53,84,3.55,732.93,coffee
+22,08-22,monday,0,93,72,10.58,586.44,moosetracks
+23,08-23,tuesday,1,68,80,2.45,655.18,mint chip
+24,08-24,wednesday,2,74,79,9.53,661.29,coffee
+25,08-25,thursday,3,56,84,2.14,710.84,moosetracks
+26,08-26,friday,4,85,79,0.29,732.11,coffee
+27,08-27,saturday,5,71,74,8.49,860.90,coffee
+28,08-28,sunday,6,64,75,6.62,775.63,mint chip
+29,08-29,monday,0,69,81,7.39,643.81,moosetracks
+30,08-30,tuesday,1,71,82,8.98,587.46,coffee
+31,08-31,wednesday,2,50,81,8.07,578.72,coffee
