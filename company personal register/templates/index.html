@@ -1,0 +1,45 @@
+
+{% extends "layout.html" %}
+{% block title %}
+
+{% endblock %}
+
+{% block content %}
+<div class="content">
+    <header>
+        <h1>Welcome to TechIT Solutions!</h1>
+    </header>
+
+    <div class="welcome-text">
+        <h1>See out Company!</h1>
+        <p>This shows our company personal registry</p>
+    </div>
+
+    <div class="team-image">
+    
+        <img src="{{url_for('static',filename ='image.webp')}}" alt="Register">
+        <img src="{{url_for('static',filename ='image2.jpg')}}" alt="Login">
+       
+
+    </div>
+
+    <div class="info-boxes">
+        <div class="info-box">
+            <h2>Register</h2>
+            <p>Registration for the company persons.</p>
+        </div>
+        <div class="info-box">
+            <h2>Login</h2>
+            <p>Login to see the company personal registry.</p>
+        </div>
+        
+    </div>
+	<footer>
+    
+		<div class="footer-bottom">
+			<p>&copy; 2024 TechIT Solutions. All Rights Reserved.</p>
+		</div>
+	</footer>
+</div>
+{% endblock %}
+
